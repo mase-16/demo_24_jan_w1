@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: nachiketh
+  REPOSITORY_NAME: mase-16
   IMAGE_TAG: latest
 
 jobs:
